@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("Hello newfeature branch\n");
+    printf("Hello world 2\n");
 
     return 0;
 }
